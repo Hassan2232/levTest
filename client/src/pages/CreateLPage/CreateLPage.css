@@ -1,0 +1,47 @@
+.container-createL {
+    max-width: 70%;
+    margin: auto;
+}
+
+.convertedLink-box {
+    width: 180%;
+    padding: 1em;
+    margin-bottom: 1em;
+    display: flex;
+    display: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+.box-item{
+    width: 100%;
+    height: 15vh;
+    max-height: 80vh;
+}
+
+.link-box-item {
+    padding-right: .5em;
+    height: 10vh;
+    display: block;
+    overflow-y: auto;
+    margin: 1em;
+    width: 100%;
+    overflow-wrap: break-word;
+}
+
+.convert-box-item {
+    padding-left: 1.3em;
+    color: blue;
+}
+
+.err-inp {
+    padding: .5em;
+    width: 30%;
+    text-align: center;
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 10px;
+}

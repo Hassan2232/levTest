@@ -1,0 +1,8 @@
+.err-inp {
+    padding: 1em;
+    text-align: center;
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 10px;
+}
